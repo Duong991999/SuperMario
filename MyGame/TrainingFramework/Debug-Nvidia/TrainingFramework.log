@@ -1,0 +1,174 @@
+﻿  GSPlay.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsplay.cpp(166): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsplay.cpp(167): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(901): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsplay.cpp(66): note: see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,double &&)' being compiled
+  GSMenu.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsmenu.cpp(26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsmenu.cpp(32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsmenu.cpp(42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsmenu.cpp(52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsmenu.cpp(63): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(901): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[12],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[12],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[12],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[12],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsmenu.cpp(62): note: see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[12],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[12],TEXT_COLOR &&,double &&)' being compiled
+  GSHighScore.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gshighscore.cpp(29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(901): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[11],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[11],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[11],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[11],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gshighscore.cpp(44): note: see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[11],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[11],TEXT_COLOR &&,double &&)' being compiled
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(901): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,int>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,int &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,int>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,int &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gshighscore.cpp(47): note: see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,int>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,int &&)' being compiled
+  GSGameOver.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsgameover.cpp(39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(901): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+  c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gamestates\gsgameover.cpp(72): note: see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TEXT_COLOR &&,double &&)' being compiled
+  gold.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  enemy.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.cpp(26): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.cpp(28): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  SkyGround.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Player.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.cpp(32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.cpp(76): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.cpp(77): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.cpp(96): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.cpp(97): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.cpp(119): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.cpp(126): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  GameStatebase.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  tree.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  coin.cpp
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\coin.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\player.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\skyground.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\tree.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\enemy.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(20): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\gold.h(21): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\microsoft windows\desktop\new folder\programming_anim\trainingframework\src\gameobject\coin.cpp(25): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Generating Code...
+  TrainingFramework.vcxproj -> C:\Users\Microsoft Windows\Desktop\New folder\Programming_anim\\BIN-Nvidia\TrainingFramework.exe
+  TrainingFramework.vcxproj -> C:\Users\Microsoft Windows\Desktop\New folder\Programming_anim\\BIN-Nvidia\TrainingFramework.pdb (Full PDB)
